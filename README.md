@@ -24,7 +24,7 @@ Open http://localhost:8501, pick an incident, click **Run agent investigation**.
    ```toml
    NVIDIA_API_KEY = "nvapi-xxxxxxxx"
    ```
-4. Deploy. You get a public URL for the demo.
+4. Deploy. You get a public URL for the demo (https://incidentops.streamlit.app/).
 
 ### Step 4 — Demo
 1. 4-agent team, powered by NVIDIA NIM.
